@@ -10,7 +10,7 @@
 
 
 
-```
+```java
 public class Main {
     //main 탭
     public static void main(String[] args) {
